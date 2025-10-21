@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**chanuki2004/chanuki2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chanuki_semini/chanuki_semini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
